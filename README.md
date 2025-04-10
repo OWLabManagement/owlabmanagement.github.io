@@ -1,5 +1,6 @@
 # owlabmanagement.github.io
 Lab Website Hosting Safety Data Sheets
+[View PDF](https://github.com/OWLabManagement/Safety-Data-Sheets/raw/main/99515-38-a-sds.pdf)
 <iframe src="https://github.com/OWLabManagement/Safety-Data-Sheets/raw/main/99515-38-a-sds.pdf" 
         width="100%" 
         height="600px" 
